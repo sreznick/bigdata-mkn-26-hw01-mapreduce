@@ -1,0 +1,4 @@
+mrjob==0.7.4
+# mrjob imports distutils, removed from the stdlib in Python 3.12
+setuptools
+pytest
